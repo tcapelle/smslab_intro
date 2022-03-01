@@ -1,4 +1,4 @@
-name: pt
+name: wandb
 channels:
 - pytorch
 - conda-forge
